@@ -1,4 +1,4 @@
-# Clean or Messy
+# Clean or Messy Android App made using Flutter
 
 ## Flutter app to predict if a room is clean or messy
 
@@ -11,3 +11,5 @@
 ### Dataset:
 Clean or messy dataset from Kaggle
 https://www.kaggle.com/cdawn1/messy-vs-clean-room
+
+
